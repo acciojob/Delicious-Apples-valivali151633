@@ -1,1 +1,40 @@
 /* your code here */
+body{
+	width:100vw;
+	height:default;
+	background-color:#10e37f;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.product{
+	display:flex;
+	background-color:#ffffff;
+	margin: 25px 10vw ;
+}
+.photo-main{
+	background-color:#b2e838;
+	position:relative;
+}
+
+.controls i:first-child{
+	
+	position:absolute;
+        top: 10px;
+        left: 10px;
+	    color:white;
+	
+}
+.controls  i:last-child {
+	 position: absolute;
+     top: 10px;
+     right: 10px;
+	  color:white;
+}
+
+	
+
+
+
+
+
